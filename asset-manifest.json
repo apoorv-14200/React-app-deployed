@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/apoorv-14200/React-app-deployed/static/css/main.195027e8.chunk.css",
+    "main.js": "/apoorv-14200/React-app-deployed/static/js/main.1b541621.chunk.js",
+    "main.js.map": "/apoorv-14200/React-app-deployed/static/js/main.1b541621.chunk.js.map",
+    "runtime-main.js": "/apoorv-14200/React-app-deployed/static/js/runtime-main.2390a500.js",
+    "runtime-main.js.map": "/apoorv-14200/React-app-deployed/static/js/runtime-main.2390a500.js.map",
+    "static/js/2.fbe39b6f.chunk.js": "/apoorv-14200/React-app-deployed/static/js/2.fbe39b6f.chunk.js",
+    "static/js/2.fbe39b6f.chunk.js.map": "/apoorv-14200/React-app-deployed/static/js/2.fbe39b6f.chunk.js.map",
+    "index.html": "/apoorv-14200/React-app-deployed/index.html",
+    "static/css/main.195027e8.chunk.css.map": "/apoorv-14200/React-app-deployed/static/css/main.195027e8.chunk.css.map",
+    "static/js/2.fbe39b6f.chunk.js.LICENSE.txt": "/apoorv-14200/React-app-deployed/static/js/2.fbe39b6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2390a500.js",
+    "static/js/2.fbe39b6f.chunk.js",
+    "static/css/main.195027e8.chunk.css",
+    "static/js/main.1b541621.chunk.js"
+  ]
+}
